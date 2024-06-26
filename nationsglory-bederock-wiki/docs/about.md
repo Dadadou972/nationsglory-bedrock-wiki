@@ -24,4 +24,4 @@ Si tu souhaite nous aider tu peut mp discord Theking97 .
 La bande annonce de nations glory bedrock: 
 
 
-
+[NATIONSGLORY - DÉBARQUE SUR BEDROCK !.mp4](..%2Fstatic%2Fimg%2FNATIONSGLORY%20-%20D%C9BARQUE%20SUR%20BEDROCK%20%21.mp4)
