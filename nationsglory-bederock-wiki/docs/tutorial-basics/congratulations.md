@@ -1,23 +1,29 @@
 ---
-sidebar_position: 6
+sidebar_position: 4
 ---
 
-# Congratulations!
+# Sur une xbox
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+Pour vous connecter depuis un xbox regarder cette video.
 
-Docusaurus has **much more to offer**!
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
 
-## What's next?
+:::tip Les ip directes
+Il faut savoir que en vous connectant a ce serveur vous vous connecter au hub. De la vous pouvez vous connecter au 5 serveurs. Mais si vous etes un habitué de votre serveur de jeu alors vous pouvez vous connecter avec ces ip a votre serveur:
+Alpha: Ip: alpha.nationsglory.fr port:19139
+Oméga: Ip: omega.nationsglory.fr port:19134
+Sigma: Ip: sigma.nationsglory.fr port:19133
+Gamma: Ip: gamma.nationsglory.fr port:19141
+Delta: Ip: delta.nationsglory.fr port:19148
+:::
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+
+# Pour les nouveaux
+
+Une fois arriver au hub pour la première fois, il est important de  bien choisir son serveur. Il y a plusieurs critères
+-L'économie
+-Le rp
+-La communauté
+Et bien d'autre critère!
+Pour bien choisir ton serveur je te conceil de te rendre ici: 

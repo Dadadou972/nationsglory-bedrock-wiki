@@ -2,42 +2,31 @@
 sidebar_position: 1
 ---
 
-# Create a Page
+# Sur pc
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+Pour vous connecter depuis un pc rien de plus simple,
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+1. Allez dans la catégorie serveurs:
+2. Aller sur ajouter un serveur
+3. Entre l'ip bedrock.nationsglory.fr et le port 19132 
+:::tip Les ip directes
+Il faut savoir que en vous connectant a ce serveur vous vous connecter au hub. De la vous pouvez vous connecter au 5 serveurs. Mais si vous etes un habitué de votre serveur de jeu alors vous pouvez vous connecter avec ces ip a votre serveur:
+Alpha: Ip: alpha.nationsglory.fr port:19139
+Oméga: Ip: omega.nationsglory.fr port:19134
+Sigma: Ip: sigma.nationsglory.fr port:19133
+Gamma: Ip: gamma.nationsglory.fr port:19141
+Delta: Ip: delta.nationsglory.fr port:19148
+:::
+4. Cliquer sur sauvegarder
+5. Apuyer sur le serveur puis sur rejoindre!
 
-## Create your first React Page
+# Pour les nouveaux
 
-Create a file at `src/pages/my-react-page.js`:
+Une fois arriver au hub pour la première fois, il est important de  bien choisir son serveur. Il y a plusieurs critères
+-L'économie
+-Le rp
+-La communauté
+Et bien d'autre critère!
+Pour bien choisir ton serveur je te conceil de te rendre ici: 
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
-
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
-
-## Create your first Markdown Page
-
-Create a file at `src/pages/my-markdown-page.md`:
-
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
-
-This is a Markdown page
-```
-
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).

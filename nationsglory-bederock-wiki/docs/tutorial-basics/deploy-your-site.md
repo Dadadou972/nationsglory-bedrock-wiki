@@ -2,30 +2,30 @@
 sidebar_position: 5
 ---
 
-# Deploy your site
 
-Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
 
-It builds your site as simple **static HTML, JavaScript and CSS files**.
+# Sur une nintendo switch
 
-## Build your site
+Pour vous connecter depuis un siwtch regarder cette video.
 
-Build your site **for production**:
 
-```bash
-npm run build
-```
 
-The static files are generated in the `build` folder.
 
-## Deploy your site
+:::tip Les ip directes
+Il faut savoir que en vous connectant a ce serveur vous vous connecter au hub. De la vous pouvez vous connecter au 5 serveurs. Mais si vous etes un habitué de votre serveur de jeu alors vous pouvez vous connecter avec ces ip a votre serveur:
+Alpha: Ip: alpha.nationsglory.fr port:19139
+Oméga: Ip: omega.nationsglory.fr port:19134
+Sigma: Ip: sigma.nationsglory.fr port:19133
+Gamma: Ip: gamma.nationsglory.fr port:19141
+Delta: Ip: delta.nationsglory.fr port:19148
+:::
 
-Test your production build locally:
 
-```bash
-npm run serve
-```
+# Pour les nouveaux
 
-The `build` folder is now served at [http://localhost:3000/](http://localhost:3000/).
-
-You can now deploy the `build` folder **almost anywhere** easily, **for free** or very small cost (read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**).
+Une fois arriver au hub pour la première fois, il est important de  bien choisir son serveur. Il y a plusieurs critères
+-L'économie
+-Le rp
+-La communauté
+Et bien d'autre critère!
+Pour bien choisir ton serveur je te conceil de te rendre ici: 

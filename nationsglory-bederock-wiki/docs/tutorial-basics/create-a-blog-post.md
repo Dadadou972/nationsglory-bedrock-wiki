@@ -2,33 +2,29 @@
 sidebar_position: 3
 ---
 
-# Create a Blog Post
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+# Sur une ps5
 
-## Create your first Post
+Pour vous connecter depuis un ps5 regarder cette video.
 
-Create a file at `blog/2021-02-28-greetings.md`:
 
-```md title="blog/2021-02-28-greetings.md"
----
-slug: greetings
-title: Greetings!
-authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
-tags: [greetings]
----
+  
 
-Congratulations, you have made your first post!
+ :::tip Les ip directes
+   Il faut savoir que en vous connectant a ce serveur vous vous connecter au hub. De la vous pouvez vous connecter au 5 serveurs. Mais si vous etes un habitué de votre serveur de jeu alors vous pouvez vous connecter avec ces ip a votre serveur:
+   Alpha: Ip: alpha.nationsglory.fr port:19139
+   Oméga: Ip: omega.nationsglory.fr port:19134
+   Sigma: Ip: sigma.nationsglory.fr port:19133
+   Gamma: Ip: gamma.nationsglory.fr port:19141
+   Delta: Ip: delta.nationsglory.fr port:19148
+   :::
 
-Feel free to play around and edit this post as much as you like.
-```
 
-A new blog post is now available at [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings).
+# Pour les nouveaux
+
+Une fois arriver au hub pour la première fois, il est important de  bien choisir son serveur. Il y a plusieurs critères
+-L'économie
+-Le rp
+-La communauté
+Et bien d'autre critère!
+Pour bien choisir ton serveur je te conceil de te rendre ici: 

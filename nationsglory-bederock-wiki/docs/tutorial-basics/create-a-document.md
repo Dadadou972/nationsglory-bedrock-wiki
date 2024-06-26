@@ -2,56 +2,30 @@
 sidebar_position: 2
 ---
 
-# Create a Document
 
-Documents are **groups of pages** connected through:
+# Sur Mobile
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
+Pour vous connecter depuis un mobile rien de plus simple,
 
-## Create your first Doc
+1. Allez dans la catégorie serveurs:
+2. Aller sur ajouter un serveur
+3. Entre l'ip bedrock.nationsglory.fr et le port 19132
+   :::tip Les ip directes
+   Il faut savoir que en vous connectant a ce serveur vous vous connecter au hub. De la vous pouvez vous connecter au 5 serveurs. Mais si vous etes un habitué de votre serveur de jeu alors vous pouvez vous connecter avec ces ip a votre serveur:
+   Alpha: Ip: alpha.nationsglory.fr port:19139
+   Oméga: Ip: omega.nationsglory.fr port:19134
+   Sigma: Ip: sigma.nationsglory.fr port:19133
+   Gamma: Ip: gamma.nationsglory.fr port:19141
+   Delta: Ip: delta.nationsglory.fr port:19148
+   :::
+4. Cliquer sur sauvegarder
+5. Apuyer sur le serveur puis sur rejoindre!
 
-Create a Markdown file at `docs/hello.md`:
+# Pour les nouveaux
 
-```md title="docs/hello.md"
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-A new document is now available at [http://localhost:3000/docs/hello](http://localhost:3000/docs/hello).
-
-## Configure the Sidebar
-
-Docusaurus automatically **creates a sidebar** from the `docs` folder.
-
-Add metadata to customize the sidebar label and position:
-
-```md title="docs/hello.md" {1-4}
----
-sidebar_label: 'Hi!'
-sidebar_position: 3
----
-
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-It is also possible to create your sidebar explicitly in `sidebars.js`:
-
-```js title="sidebars.js"
-export default {
-  tutorialSidebar: [
-    'intro',
-    // highlight-next-line
-    'hello',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
-  ],
-};
-```
+Une fois arriver au hub pour la première fois, il est important de  bien choisir son serveur. Il y a plusieurs critères
+-L'économie
+-Le rp
+-La communauté
+Et bien d'autre critère!
+Pour bien choisir ton serveur je te conceil de te rendre ici: 
