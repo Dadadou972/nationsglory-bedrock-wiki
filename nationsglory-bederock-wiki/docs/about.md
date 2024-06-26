@@ -9,10 +9,19 @@ Ouverte en 2020, ces serveurs offrent une experience de jeu unique , une communa
 
 Tu est nouveau? Pas de soucis prend le temps de lire ce wiki ou nous te guideront pas à pas dans ta conquête du monde.
 
-:::warning Ce wiki n'est pas officiel mais il a étédevelopper pas des joueurs qui trouvait le wiki pas asser détaillé. :::
-:::Tips si tu souhaite nous aider tu peut mp discord Theking97 ::::
+:::warning Attention
+
+Ce wiki n'est pas officiel mais il a étédevelopper pas des joueurs qui trouvait le wiki pas asser détaillé. 
+
+:::
+
+:::tip Recrutement
+
+Si tu souhaite nous aider tu peut mp discord Theking97 .
+
+:::
 
 La bande annonce de nations glory bedrock: 
 
 
-https://www.youtube.com/watch?v=Mlhq0ItfGf8&t=1s
+

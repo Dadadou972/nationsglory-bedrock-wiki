@@ -28,3 +28,29 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.hero--primary {
+  position: relative; /* Permet de positionner les éléments enfants par rapport à ce conteneur */
+  background-image: url('/img/hero-boss.jpg'); /* Chemin vers votre image de fond */
+  background-size: cover; /* Redimensionne l'image pour couvrir toute la zone */
+  background-position: center; /* Centre l'image horizontalement et verticalement */
+  height: 100vh; /* Utilise la hauteur totale de la vue du navigateur */
+  color: white; /* Couleur du texte sur l'image de fond, adaptez selon votre image */
+  text-align: center; /* Centre le texte */
+  display: flex;
+  flex-direction: column; /* Aligne les éléments en colonne */
+  justify-content: flex-start; /* Aligne le contenu en haut de la zone */
+  padding-top: 50px; /* Espacement du haut pour le contenu */
+}
+
+.hero--primary h1 {
+  margin-bottom: 20px; /* Marge sous le titre */
+}
+
+.hero--primary p {
+  margin-bottom: 20px; /* Marge sous le paragraphe */
+}
+
+.hero--primary .button {
+  margin-top: 20px; /* Espacement entre les boutons */
+}
